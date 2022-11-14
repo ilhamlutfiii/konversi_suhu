@@ -1,16 +1,14 @@
-# flutter_konverter_suhu
+Nama : Ilham Lutfiansyah 
+NIM  : 2041720025
+Kelas: TI-3C
+No.Absen : 10
 
-A new Flutter project.
+#Tugas Praktikum Mobile 
 
-## Getting Started
+Konversi Suhu
 
-This project is a starting point for a Flutter application.
+Tampilan Awal
+![Tampilan Awal](SS/awal.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil Akhir
+![Hasil Akhir](SS/hasil.png)
