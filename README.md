@@ -8,7 +8,7 @@ No.Absen : 10
 Konversi Suhu
 
 Tampilan Awal
-![Tampilan Awal](SS/awal.png)
+![Tampilan Awal](SS/awal.PNG)
 
 Hasil Akhir
-![Hasil Akhir](SS/hasil.png)
+![Hasil Akhir](SS/hasil.PNG)
